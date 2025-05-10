@@ -1,0 +1,12 @@
+{
+  "name": "registration-project",
+  "version": "1.0.0",
+  "description": "A social app registration process with email confirmation and privacy policy pages.",
+  "main": "src/assets/scripts/main.js",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'No build process defined.'"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
